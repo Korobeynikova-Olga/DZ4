@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\c#\DZ4\Задача29\bin\Debug\net6.0\Задача29.exe
+C:\Users\User\Desktop\c#\DZ4\Задача29\bin\Debug\net6.0\Задача29.deps.json
+C:\Users\User\Desktop\c#\DZ4\Задача29\bin\Debug\net6.0\Задача29.runtimeconfig.json
+C:\Users\User\Desktop\c#\DZ4\Задача29\bin\Debug\net6.0\Задача29.dll
+C:\Users\User\Desktop\c#\DZ4\Задача29\bin\Debug\net6.0\Задача29.pdb
+C:\Users\User\Desktop\c#\DZ4\Задача29\obj\Debug\net6.0\Задача29.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\c#\DZ4\Задача29\obj\Debug\net6.0\Задача29.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\c#\DZ4\Задача29\obj\Debug\net6.0\Задача29.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\c#\DZ4\Задача29\obj\Debug\net6.0\Задача29.AssemblyInfo.cs
+C:\Users\User\Desktop\c#\DZ4\Задача29\obj\Debug\net6.0\Задача29.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\c#\DZ4\Задача29\obj\Debug\net6.0\Задача29.dll
+C:\Users\User\Desktop\c#\DZ4\Задача29\obj\Debug\net6.0\refint\Задача29.dll
+C:\Users\User\Desktop\c#\DZ4\Задача29\obj\Debug\net6.0\Задача29.pdb
+C:\Users\User\Desktop\c#\DZ4\Задача29\obj\Debug\net6.0\Задача29.genruntimeconfig.cache
+C:\Users\User\Desktop\c#\DZ4\Задача29\obj\Debug\net6.0\ref\Задача29.dll
